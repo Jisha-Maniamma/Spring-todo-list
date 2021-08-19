@@ -7,6 +7,13 @@ http://localhost:8080/todo-list/welcome?user=Jisha&age=23
 <img src="/images/page3.png" alt="Loaded application"/>
 
 
+URL-
+
+http://localhost:8080/todo-list/
+
+
+<img src="/images/page5.png" alt="Home page of application"/>
+
 
 URL-
 
