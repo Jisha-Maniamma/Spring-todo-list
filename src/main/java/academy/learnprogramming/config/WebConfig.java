@@ -29,6 +29,7 @@ public class WebConfig implements WebMvcConfigurer {
         return viewResolver;
     }
 
+    //static website so controller nahi chahiyae
     @Override
     public void addViewControllers(ViewControllerRegistry registry) {
         registry.addViewController("/").setViewName(ViewNames.HOME);
