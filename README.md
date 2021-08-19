@@ -1,4 +1,4 @@
-<h1> sample Spring based web application</h1>
+<h1> sample Spring based web application [Tomcat]</h1>
 
 <h2> EXAMPLE </h2>
 
