@@ -1,4 +1,6 @@
-Created a sample Spring based web application
+<h1> sample Spring based web application</h1>
+
+<h3> EXAMPLE </h3>
 
 URL-
 
